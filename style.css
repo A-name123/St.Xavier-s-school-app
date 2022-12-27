@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top:0;
+z-index: 99999;
+}
+#school{
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: xx-large;
+font-style: italic;
+background: linear-gradient(aqua 0%, green 100%);
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 150px;
+    margin: 8px auto;
+}
